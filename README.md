@@ -95,3 +95,41 @@ jupyter notebook essay_grading_system_langgraph.ipynb
 * Final numeric or qualitative grade
 * Explainable reasoning for each grading criterion
 
+---
+
+## 🌟 Key Features
+
+* Modular grading pipeline using LangGraph
+* Explainable AI decisions (not just scores)
+* Easy to extend with new evaluation criteria
+* Suitable for education, ed-tech, and assessment automation
+
+---
+
+## 🔮 Future Enhancements
+
+* Rubric-based dynamic scoring
+* PDF / DOCX essay uploads
+* Multi-language essay evaluation
+* Teacher override and feedback loop
+* Integration with learning management systems (LMS)
+
+---
+
+## 👩‍💻 Author
+
+**Monasri**
+B.Tech – Artificial Intelligence & Data Science
+AI | ML | GenAI | Agentic Systems
+
+🔗 GitHub: [https://github.com/monasri001](https://github.com/monasri001)
+🔗 Portfolio: [https://monasri.vercel.app](https://monasri.vercel.app)
+
+---
+
+## 📜 License
+
+This project is for **educational and research purposes**.
+You are free to modify and extend it with proper attribution.
+
+
