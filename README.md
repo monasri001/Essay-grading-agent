@@ -106,16 +106,6 @@ jupyter notebook essay_grading_system_langgraph.ipynb
 
 ---
 
-## 🔮 Future Enhancements
-
-* Rubric-based dynamic scoring
-* PDF / DOCX essay uploads
-* Multi-language essay evaluation
-* Teacher override and feedback loop
-* Integration with learning management systems (LMS)
-
----
-
 ## 👩‍💻 Author
 
 **Monasri**
